@@ -174,4 +174,4 @@ Kita akan pakai framework JavaScript untuk membangun interface website yang inte
 ## Hasil Akhir
 
 ![alt text](gambar/after.png)
-![alt text](gambar/pp.png)
+![alt text](gambar/pp.jpeg)
